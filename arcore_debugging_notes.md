@@ -1,5 +1,5 @@
 ## P1. 
-* Unable to list target platforms. Please make sure the android sdk path is correct.
+_Unable to list target platforms. Please make sure the android sdk path is correct._
 
 **Error Messages:**
 CommandInvokationFailure: Unable to list target platforms. Please make sure the android sdk path is correct. 
