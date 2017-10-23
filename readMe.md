@@ -10,3 +10,9 @@
 
 3. Demo
 ![alt text](https://github.com/alchemz/ARCore-Unity-Mapping/blob/master/demo.png)
+
+4. Measure Length parallel to the ground(known)
+
+5. Measure height perpendicular to the ground(unknown)
+* a potential solution:
+![alt text](https://github.com/alchemz/ARCore-Unity-Mapping/blob/master/measure_height_concept.png)
