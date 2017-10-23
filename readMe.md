@@ -15,4 +15,5 @@
 
 5. Measure height perpendicular to the ground(unknown)
 * a potential solution:
-![alt text](https://github.com/alchemz/ARCore-Unity-Mapping/blob/master/measure_height_concept.png)
+
+![alt text](https://github.com/alchemz/ARCore-Unity-Mapping/blob/master/measure_height_concept.PNG)
